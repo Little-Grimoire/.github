@@ -1,4 +1,4 @@
-# Trabalhos da UTFPR – Campus Dois Vizinhos
+# Little Grimoire
 
 Este espaço reúne trabalhos e projetos desenvolvidos por alunos na **Universidade Tecnológica Federal do Paraná (UTFPR) – Campus Dois Vizinhos**.
 
